@@ -27,6 +27,7 @@ static string[] GenerateRandomStringArray(int randomLength)
     return randomArray;
 }
 
+// Select the strings, where length is less 4 characters
 static string[] ThreeLengthArrayOfString(string[] strArray, int randomLength)
 {
     string[] threeLengthArray = new string[randomLength]; ;
