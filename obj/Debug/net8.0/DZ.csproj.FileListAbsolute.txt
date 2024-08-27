@@ -1,0 +1,15 @@
+D:\Education\gb\algorithm\DZ\bin\Debug\net8.0\DZ.exe
+D:\Education\gb\algorithm\DZ\bin\Debug\net8.0\DZ.deps.json
+D:\Education\gb\algorithm\DZ\bin\Debug\net8.0\DZ.runtimeconfig.json
+D:\Education\gb\algorithm\DZ\bin\Debug\net8.0\DZ.dll
+D:\Education\gb\algorithm\DZ\bin\Debug\net8.0\DZ.pdb
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.AssemblyInfoInputs.cache
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.AssemblyInfo.cs
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.csproj.CoreCompileInputs.cache
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.sourcelink.json
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.dll
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\refint\DZ.dll
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.pdb
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\DZ.genruntimeconfig.cache
+D:\Education\gb\algorithm\DZ\obj\Debug\net8.0\ref\DZ.dll
